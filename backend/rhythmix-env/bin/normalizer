@@ -1,4 +1,4 @@
-#!/Users/karlalazarte/code/sei523-projects/Rhythmix-App/backend/rythmix-env/bin/python3.11
+#!/Users/karlalazarte/code/sei523-projects/Rhythmix-App/backend/rhythmix-env/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
